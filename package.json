@@ -1,10 +1,10 @@
 {
   "name": "doit-cli",
-  "version": "0.0.0-1",
-  "description": "Command-line interface for selecting and running npm scripts.",
+  "version": "1.0.0",
+  "description": "Command-line interface for listing and running npm scripts.",
   "author": "Renee Ghattas <renee.ghattas@gmail.com>",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/rghattas/doit-cli/blob/master/README.md",
   "engines": {
     "node": ">=8"
   },
