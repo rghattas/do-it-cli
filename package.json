@@ -1,5 +1,5 @@
 {
-  "name": "doit-cli",
+  "name": "do-it-cli",
   "version": "1.0.0",
   "description": "Command-line interface for listing and running npm scripts.",
   "author": "Renee Ghattas <renee.ghattas@gmail.com>",

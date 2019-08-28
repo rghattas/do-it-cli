@@ -1,7 +1,23 @@
-# doit-cli
+# do-it-cli
 
-![](doit.gif)
+![](/images/doit.gif)
 
-Doit is a command-line interface that lists and runs your npm scripts in any project that has a `package.json` file.
+Do-it is a command-line interface that lists and runs your npm scripts in any project that has a `package.json` file.
 
-Simple run `doit` in the root directory of your project and see a list of all your scripts.
+# Install
+
+Install this package using npm:
+
+```
+npm i -g do-it
+```
+
+# Usage
+
+Simple run `do-it` in the same directory as your `package.json` file and see a list of all your scripts.
+
+```
+❯ do-it
+```
+
+![](/images/sample.png)
