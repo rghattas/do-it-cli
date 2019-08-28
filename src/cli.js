@@ -6,7 +6,7 @@ import InkBox from 'ink-box';
 import fs from 'fs';
 import childProcess from 'child_process';
 
-function App() {
+function Cli() {
   const [packageJson, setPackageJson] = useState();
 
   useEffect(() => {
@@ -53,4 +53,4 @@ function App() {
   );
 }
 
-render(<App />);
+render(<Cli />);
