@@ -9,7 +9,7 @@
     "node": ">=8"
   },
   "bin": {
-    "doit": "build/index.js"
+    "do-it": "build/index.js"
   },
   "main": "build/index.js",
   "scripts": {
