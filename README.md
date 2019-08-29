@@ -10,15 +10,15 @@ This CLI is using [Ink](https://github.com/vadimdemedes/ink) and React.
 Install this package using npm:
 
 ```
-npm i -g do-it
+npm i -g doit
 ```
 
 # Usage
 
-Simple run `do-it` in the same directory as your `package.json` file and see a list of all your scripts.
+Simple run `doit` in the same directory as your `package.json` file and see a list of all your scripts.
 
 ```
-❯ do-it
+❯ doit
 ```
 
 ![](/images/sample.png)
