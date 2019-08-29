@@ -2,7 +2,7 @@
 
 ![](/images/doit.gif)
 
-Do-it is a command-line interface that lists and runs your npm scripts in any project that has a `package.json` file.
+`Doit` is a command-line interface that lists and runs your npm scripts in any project that has a `package.json` file.
 This CLI is using [Ink](https://github.com/vadimdemedes/ink) and React.
 
 # Install
