@@ -12,7 +12,7 @@ I did a talk about this at a local React meetup, here are the slides: https://sl
 Install this package using npm:
 
 ```
-npm i -g doit
+npm i -g @rghat/do-it-cli
 ```
 
 # Usage
