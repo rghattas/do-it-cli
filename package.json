@@ -1,5 +1,5 @@
 {
-  "name": "do-it-cli",
+  "name": "@rghat/do-it-cli",
   "version": "1.0.0",
   "description": "Command-line interface for listing and running npm scripts.",
   "author": "Renee Ghattas <renee.ghattas@gmail.com>",
@@ -40,5 +40,21 @@
     "eslint-plugin-react": "^7.20.0",
     "eslint-plugin-react-hooks": "^1.7.0",
     "prettier": "^1.19.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rghattas/do-it-cli.git"
+  },
+  "keywords": [
+    "React",
+    "cli",
+    "ink",
+    "do",
+    "it",
+    "npm",
+    "scripts"
+  ],
+  "bugs": {
+    "url": "https://github.com/rghattas/do-it-cli/issues"
   }
 }
